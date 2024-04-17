@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worksheet Genius</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Discover Free Math and English Worksheet Generators at Worksheet Genius!</h1>
+    </header>
+    <main>
+        <section>
+            <h2>What Worksheet Genius Offers:</h2>
+            <ul>
+                <li>Math and English Worksheets covering basic to complex levels.</li>
+                <li>Fully Customizable worksheets tailored to educational needs.</li>
+                <li>Trusted by over 4 million users worldwide.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Ideal for:</h2>
+            <ul>
+                <li>Homeschoolers creating differentiated lessons.</li>
+                <li>Teachers needing ready-to-use worksheets.</li>
+                <li>Parents supporting home learning.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Featured Worksheet Generators Include:</h2>
+            <ul>
+                <li>Place Value, Addition, Fractions, Coordinates, Clock Reading, and more.</li>
+                <li>Phonics, Acrostics, Sentence Structure, Spelling Practice.</li>
+            </ul>
+        </section>
+        <footer>
+            Visit <a href="https://worksheetgenius.com/">Worksheet Genius</a> to start generating free worksheets today!
+        </footer>
+    </main>
+</body>
+</html>
